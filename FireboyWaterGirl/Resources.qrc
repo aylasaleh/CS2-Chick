@@ -4,5 +4,16 @@
         <file>img/gems.png</file>
         <file>img/watergirl.png</file>
         <file>img/TempleHallForest.png</file>
+        <file>block.png</file>
+        <file>fire.png</file>
+        <file>water.png</file>
+        <file>acid.png</file>
+        <file>lever.png</file>
+        <file>slidingFloor.png</file>
+        <file>pushButton1.png</file>
+        <file>slidingFloor2.png</file>
+        <file>pushButton2.png</file>
+        <file>fireDoor.png</file>
+        <file>WaterDoor.png</file>
     </qresource>
 </RCC>
